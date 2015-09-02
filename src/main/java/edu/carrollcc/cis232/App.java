@@ -11,6 +11,7 @@ public class App
 	
     public static void main( String[] args )
     {
+    	// This is imported to my home computer
     	Scanner kb = new Scanner(System.in);
     	String name = "";
     	System.out.print("Enter Name: ");
