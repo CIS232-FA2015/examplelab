@@ -20,5 +20,7 @@ public class App
     	name = keyboard.nextLine();
     	
         System.out.printf("Hello %s",name);
+        
+        keyboard.close();
     }
 }
